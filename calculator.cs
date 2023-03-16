@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class calculator{
 	static void Main(string[] args){
 		int a = 10;
@@ -18,6 +17,4 @@ class calculator{
 	static int pengurangan(int a, int b){
 		return a - b;
 	}
-	
-	
 }
